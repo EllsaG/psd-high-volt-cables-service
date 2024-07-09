@@ -1,0 +1,2 @@
+delete from high_volt_cable_selection
+where high_volt_cable_selection_id>0;

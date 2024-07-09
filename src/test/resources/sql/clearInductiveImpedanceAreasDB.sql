@@ -1,0 +1,2 @@
+delete from inductive_impedance_areas
+where inductive_impedance_areas_id>0;
