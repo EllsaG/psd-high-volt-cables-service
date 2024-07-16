@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_7c5a97be-d05d-4f44-8270-453e84e90be7",
+      "org_id": "user_2be651ce-09a9-4dd0-aa0d-c05f6038d5db",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_7c5a97be-d05d-4f44-8270-453e84e90be7.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_7c5a97be-d05d-4f44-8270-453e84e90be7.git",
+      "name": "psd-high-volt-cables-service",
+      "alias": "psd-high-volt-cables-service"
+    }
+  ]
+}
